@@ -1,0 +1,23 @@
+<div id="carousel_" class="carousel" duration="{{ $.Site.Params.hero.carousel.duration }}" items="{{ $.Site.Params.hero.carousel.items }}">
+  <ul>
+    {{ range $index, $slide := $.Site.Params.hero.carousel.images }}
+    <li id="c_slide{{ add $index 1}}" style="min-width: calc(100%/{{ $.Site.Params.hero.carousel.items }}); padding-bottom: {{ $.Site.Params.hero.carousel.height }}{{ $.Site.Params.hero.carousel.unit }};">
+      <img src="{{ $slide.image }}" alt="" />
+      <div>
+        <div>{{ $slide.caption }} </div>
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+  <ol>
+    {{ range $index, $page := $.Site.Params.hero.carousel.images }}
+    <li><a href="#c_slide{{ add $index 1 }}"></a></li>
+    {{ end }}
+  </ol>
+  <div class="prev">&lsaquo;</div>
+  <div class="next">&rsaquo;</div>
+  
+</div>
+
+<link rel="stylesheet" href="/css/carousel.css">
+<script type="text/javascript" src="/js/carousel.js"></script>

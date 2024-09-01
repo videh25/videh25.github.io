@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videh Patel</title>
+    <link>https://videh25.github.io/</link>
+    <description>Recent content on Videh Patel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate>
+    
+	<atom:link href="https://videh25.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Simulation of Manipulators</title>
+      <link>https://videh25.github.io/manipulators/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/manipulators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Lawn Mower</title>
+      <link>https://videh25.github.io/lawn_mower/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/lawn_mower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ball On Beam</title>
+      <link>https://videh25.github.io/ball_on_beam/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/ball_on_beam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bottle Holder for Joggers</title>
+      <link>https://videh25.github.io/bottle_holder/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/bottle_holder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Mobile Robot</title>
+      <link>https://videh25.github.io/mobile_robot/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/mobile_robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epicyle Animation</title>
+      <link>https://videh25.github.io/fourier_animation/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/fourier_animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Hand Impedance Experiment</title>
+      <link>https://videh25.github.io/hand_impedance_experiment/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/hand_impedance_experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inventory Dispensing System</title>
+      <link>https://videh25.github.io/inventory_dispensing/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/inventory_dispensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical Mirror</title>
+      <link>https://videh25.github.io/mechanical_mirror/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/mechanical_mirror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Works</title>
+      <link>https://videh25.github.io/projects/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path Planning Algorithms</title>
+      <link>https://videh25.github.io/path_planning/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/path_planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restoration of GoKart</title>
+      <link>https://videh25.github.io/go_kart/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://videh25.github.io/go_kart/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

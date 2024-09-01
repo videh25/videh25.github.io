@@ -1,0 +1,29 @@
+{{ define "head" }}
+<meta name="description" content="{{ .Title }} of {{ .Site.Title }}">
+<link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/project_x.css" media="all">
+<link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/index.css" media="all">
+<link rel="icon" href={{ .Site.Params.favicon | default "/logao.png" }} type="image/gif">
+<!-- <link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/list.css" media="all"> -->
+{{ end }}
+
+{{ define "title" }}
+{{.Title }} | {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<section id="project_x" class="py-5">
+    <div class="container">
+        <h1 class="primary-font">{{.Title}}</h1>
+        <h4 class="primary-font">{{ .Params.description | emojify }}</h4>
+        {{- partial "carousel.html" . -}}
+        <div>
+            <i> {{ $.Params.credits }} </i>
+          </div>
+        <div class="col-sm-12 col-md-12 col-lg-8 content">
+            {{ .Params.content | markdownify }}
+        </div>
+    </div>
+</section>
+
+        
+{{ end }}

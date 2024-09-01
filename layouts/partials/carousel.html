@@ -1,0 +1,23 @@
+<div id="carousel_" class="carousel" duration="{{ $.Params.carousel.duration }}" items="{{ $.Params.carousel.items }}">
+  <ul>
+    {{ range $index, $slide := $.Params.carousel.images }}
+    <li id="c_slide{{ add $index 1}}" style="min-width: calc(100%/{{ $.Params.carousel.items }}); padding-bottom: {{ $.Params.carousel.height }}{{ $.Params.carousel.unit }};">
+      <img src="{{ $slide.image }}" alt="" />
+      <div>
+        <div>{{ $slide.caption }} </div>
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+  <ol>
+    {{ range $index, $page := $.Params.carousel.images }}
+    <li><a href="#c_slide{{ add $index 1 }}"></a></li>
+    {{ end }}
+  </ol>
+  <div class="prev">&lsaquo;</div>
+  <div class="next">&rsaquo;</div>
+  
+</div>
+
+<link rel="stylesheet" href="/css/carousel.css">
+<script type="text/javascript" src="/js/carousel.js"></script>
