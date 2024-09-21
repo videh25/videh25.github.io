@@ -183,12 +183,12 @@ params:
       enable: true
       title:
       items:
-        - "I am an <highlight>IIT Gandhinagar</highlight> alumnus who finds personal passion in turning bolts and bits to buzzing robots."
+        - "I am an <highlight>IIT Gandhinagar</highlight> alumnus who finds personal passion in turning bolts and bits into buzzing robots."
         - "I am currently working as Path Planning Engineer at [Flux Auto](https://fluxauto.xyz), spending my days making vehicles smart enough to choose their path independently (The way I do, lol)."
-        - "Throughout my journey, I have designed CAD, welded metal, designed PCBs, implemented control algorithms, programmed path planning algorithms and devised algoriths for fleet management."
+        - "Throughout my journey, I have designed CAD, welded metal, designed PCBs, implemented control algorithms, programmed path planning algorithms and devised algorithms for fleet management."
         - "Working at <highlight>Tinkerers' Lab, IITGN</highlight> imparted a strong love for makerspaces and the people who maintain them!"
-        - "I have worked pretty close with the laser cutters. So close that I can also perform the regular maintenance! :)"
-        - "I love organizing events, especially the ones where communities come together and bring out their technical creativity."
+        - "I have worked pretty closely with the laser cutters. So close that I can also perform the regular maintenance! :)"
+        - "I love organizing events, especially where communities come together and bring out their technical creativity."
     skills:
       enable: false
       title: "Here are a few technologies I've been working with recently:"
@@ -215,10 +215,10 @@ params:
         content: |
           Spent the best 4 years of my life exploring technical fields, gathering skills, organising events and meeting some of the most ambitious peers.
 
-          - Attended variety of courses on Robotics, Mechatronics, Controls, DSA Linear Algebra, and many more.
-          - Worked on different projects such as automating a lawn mower, conducting experiments to measure human hand impedence, setting up systems for swarm experiments, building an inventory dispensing system, and much more.
+          - Attended a variety of courses on Robotics, Mechatronics, Controls, DSA Linear Algebra, and many more.
+          - Worked on different projects such as automating a lawn mower, conducting experiments to measure human hand impedance, setting up systems for swarm experiments, building an inventory dispensing system, and much more.
           - Conducted global events such as Mock Crypto Trading and GameJam.
-          - Coordinated a makerspace, conducted community projects and events to promote tinkering in the community.
+          - Coordinated a makerspace and conducted community projects and events to promote tinkering in the community.
 
       - job: "Core Team, Coordinator"
         company: "Tinkerers Lab IITGN"
@@ -230,12 +230,12 @@ params:
           enable: false
           url: "https://example.com"
         content: |
-          A humbling experience of running a makerspace and conducting various events, which gave a profound respect and appreciation for community makerspaces.
+          A humbling experience of running a makerspace and conducting events, which gave me a profound respect and appreciation for community makerspaces.A humbling experience of running a makerspace and conducting events, which gave me a profound respect and appreciation for community makerspaces.
 
-          - Led a team of 25 undergraduates to ensure normal functioning of Tinkerers' Lab, IITGn's student-run lab.
+          - Led a team of 25 undergraduates to ensure the normal functioning of Tinkerers' Lab, IITGn's student-run lab.
           - Conducted events and hackathons promoting tinkering and robotics at IITGn.
           - Initiated and mentored student-run smaller projects for novice students as well as incubated long-term projects.
-          - Ensured the facilities of Tinkerers' Lab are up-to-date and available for students and research staff. 
+          - Ensured the facilities of Tinkerers' Lab were up-to-date and available for students and research staff. 
 
       - job: "Robotics Engineer Intern"
         company: "Orangewood Labs"
@@ -247,12 +247,12 @@ params:
           enable: false
           url: "https://example.com"
         content: |
-          My first industry experience of working on industrial development, boosted my confidence to work on a real life problem.
+          My first industry experience of working on industrial development boosted my confidence to work on a real-life problem.
 
           - Developed ROS MoveIt! packages to implement inverse kinematics, motion planning and controls on a robotic manipulator.
-          - Programmed a MoveIt hardware interface to make physical robot execute the planned trajectories.
-          - Solved manipulator dynamics to calculate gravity torques on each joint, to implement gravity compensation.
-          - Created libraries to provide C++ and Python APIs to control actuators using UART and CAN protocols.
+          - Programmed a MoveIt hardware interface to make the physical robot execute the planned trajectories.
+          - Solved manipulator dynamics to calculate gravity torques on each joint to implement gravity compensation.
+          - Created libraries for C++ and Python APIs to control actuators using UART and CAN protocols.
 
       - job: "Path Planning Engineer"
         company: "Flux Auto"
@@ -261,9 +261,9 @@ params:
         content: |
           Coding robots to maneuver paths autonomously and ensuring that they do not cause any damage to environment. Learning the industry practices for robotics software development too!
 
-          - Invented and implemented an algorithm for LaneMap Planner, which plans similar paths by exploring 99.95% lesser nodes than the existing algorithm.
-          - Developing a novel fleet management algorithm, tested on upto 3 robots in simulation and deployed on 2 vehicles successfully.
-          - Maintaining and upgrading the 2D Lidar safety stack to meet the client requirements.
+          - Invented and implemented an algorithm for LaneMap Planner, which plans similar paths by exploring 99.95% fewer nodes than the existing algorithm.
+          - Developed a novel fleet management algorithm, tested up to 3 robots in simulation and deployed on 2 vehicles successfully.
+          - Maintaining and upgrading the 2D Lidar safety stack to meet the clients' requirements.
 
   # Education
   education:
