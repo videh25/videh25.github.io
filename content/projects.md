@@ -124,7 +124,7 @@ projects:
 
   - title: Bottle Holder for Joggers
     content: A product for joggers to comfortably carry their bottles.
-    image: /images/projects/final_bh.png
+    image: /images/projects/final_bh.jpg
     featured:
         name: More
         link: /bottle_holder
@@ -136,7 +136,7 @@ projects:
     
   - title: Human Hand Impedance Experiment
     content: Devised and conducted an experiment to study the effect of human hand impedance under a divergent force field.
-    image: /images/projects/hand_impedance_setup.png
+    image: /images/projects/hand_impedance_setup.jpg
     featured:
         name: More
         link: /hand_impedance_experiment
