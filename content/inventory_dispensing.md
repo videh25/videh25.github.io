@@ -31,6 +31,6 @@ content: |-
     My best and most hard-work drenched project of BTech, as a part of Mechatronics course offered	 by Prof. Madhu Vadali. To cater the need of students working late nights in 	Tinkerers’ Lab (student run makerspace of IITGn), we ideated, designed and prototyped an Inventory Dispensing System.
     This mechatronic system consists of a Raspberry Pi, connected to an RFID sensor and the internet; and cupboards, consisting of Arduino Nanos and load cells. All of them are connected over an I2C network with Raspberry Pi as the master and Arduinos as slaves. Once the user scans a valid RFID card, the cupboard unlock.  Arduinos sense the number of items taken/returned by the user through load cell readings and Raspberry Pi updates an online database with the information.
 
-    Do check out the infomercial! ^_^
+    Do check out the [infomercial](https://drive.google.com/file/d/1oB57t6irgdu8X9Z__uZMUKMZ9RBxQQ9l/view?usp=drive_link)! ^_^
 
 ---
