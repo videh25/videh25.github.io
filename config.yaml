@@ -186,7 +186,7 @@ params:
       title:
       items:
         - "I am an <highlight>IIT Gandhinagar</highlight> alumnus who finds personal passion in turning bolts and bits into buzzing robots."
-        - "After graduation, I am worked as Path Planning Engineer at [Flux Auto](https://fluxauto.xyz) for about 2 years, spent my days making vehicles smart enough to choose their path independently (The way I do, lol)."
+        - "After graduation, I worked as Path Planning Engineer at [Flux Auto](https://fluxauto.xyz) for about 2 years, spent my days making vehicles smart enough to choose their path independently (The way I do, lol)."
         - "Throughout my journey, I have designed CAD, welded metal, designed PCBs, implemented control algorithms, programmed path planning algorithms and devised algorithms for fleet management."
         - "I am more comfortable in coding in vim(LazyVim, to be precise) than VSCode."
         - "Working at <highlight>Tinkerers' Lab, IITGN</highlight> imparted a strong love for makerspaces and the people who maintain them!"
